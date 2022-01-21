@@ -1,0 +1,3 @@
+const LOAD_POKEMON_LIST = "LOAD_POKEMON_LIST";
+
+export default LOAD_POKEMON_LIST;

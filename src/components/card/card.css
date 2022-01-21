@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cardWidth {
+    width: 200px;
+   
+    height: 100%;
+    text-align: center;
+}
+
+
+.cardImg{
+    width: 100%;
+    text-align: center;
+}
